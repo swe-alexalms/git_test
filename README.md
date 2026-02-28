@@ -1,2 +1,2 @@
 # git_test
-Hello Odin! Hello World!
+This repo serves as a git test connection for initial configuration on my computer.
